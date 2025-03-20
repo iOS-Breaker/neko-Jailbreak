@@ -1,5 +1,5 @@
 <center>
-    <h1>NekoJB Jailbreak – Online & Original Versions</h1>
+    <h1>NekoJB Jailbreak</h1>
 </center>
 
 NekoJB is a semi-untethered jailbreak based on the kfd exploit, designed for arm64 devices (older than A12) running iOS 15 - iOS 18.4. It supports both online and PC-based methods, allowing users to jailbreak their iPhones and iPads conveniently.<br><br>
@@ -7,7 +7,7 @@ NekoJB is a semi-untethered jailbreak based on the kfd exploit, designed for arm
 ## 🔹 NekoJB Online Jailbreak
 NekoJB Online is the easiest way to jailbreak your device without a PC. It allows users to install Sileo, Zebra, and Cydia as package managers.<br>
 
-✅ Supported iOS Versions:<br>
+✅ Supported iOS Versions:<br><br>
 iOS 18.4 - iOS 15 (including all sub-versions).<br><br>
 📱 Supported Devices:<br><br>
 <b>iPhones:</b>
@@ -37,7 +37,7 @@ via Safari.</li>
 ## 🔹 NekoJB Original Jailbreak
 For those who prefer a PC-based method, NekoJB's original jailbreak offers a stable alternative. This method also supports iOS 15 - 15.8.2 and is compatible with older arm64 devices (A11 and below).<br><br>
 
-✅ Supported iOS Versions: <br>
+✅ Supported iOS Versions: <br><br>
 iOS 15 - iOS 15.8.2<br><br>
 📱 Supported Devices:<br><br>
 <b>iPhones:<br></b>
@@ -55,7 +55,7 @@ iPhone X, iPhone 8, iPhone 7, iPhone SE, iPhone 6S<br><br>
 <br>
 The TrollStore method is an alternative to the online and PC methods. It is a rootless jailbreak that requires the TrollStore sideloading tool.<br><br>
 
-✅ Supported iOS Versions:<br>
+✅ Supported iOS Versions:<br><br>
 iOS 15 - iOS 15.8.2
 <br>
 
