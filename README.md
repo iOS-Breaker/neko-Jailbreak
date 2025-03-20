@@ -9,8 +9,8 @@ NekoJB Online is the easiest way to jailbreak your device without a PC. It allow
 
 ✅ Supported iOS Versions:<br>
 iOS 18.4 - iOS 15 (including all sub-versions).<br><br>
-📱 Supported Devices:<br>
-iPhones:
+📱 Supported Devices:<br><br>
+<b>iPhones:</b>
 
 <li>iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max</li>
 <li>iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max</li>
@@ -18,7 +18,7 @@ iPhones:
 <li>iPhone 13, iPhone 12, iPhone 11 series</li>
 <li>iPhone X, iPhone 8, iPhone 7, iPhone SE, iPhone 6S</li>
 <br>
-iPads & iPods:<br>
+<b>iPads & iPods:<br></b>
 
 <li>iPad Air 2, iPad mini 4, iPad Pro models (2016-2017)</li>
 <li>iPad 5th Gen, iPad 6th Gen, iPad 7th Gen</li>
@@ -26,7 +26,8 @@ iPads & iPods:<br>
 <br>
 
 ### 📌 How to Jailbreak with Neko Online
-<li>1️⃣ Download the Neko Online tool via Safari.</li>
+<li>1️⃣<a href="https://xookz.com/neko-jailbreak/" target="_blank">Download the Neko Online tool</a>
+via Safari.</li>
 <li>2️⃣ Open the Neko Online app from the home screen.</li>
 <li>3️⃣ Tap the Jailbreak button to start the process.</li>
 <li>4️⃣ Once complete, install NekoUtil from your home screen.</li>
@@ -38,12 +39,12 @@ For those who prefer a PC-based method, NekoJB's original jailbreak offers a sta
 
 ✅ Supported iOS Versions: <br>
 iOS 15 - iOS 15.8.2<br><br>
-📱 Supported Devices:<br>
-iPhones:<br>
+📱 Supported Devices:<br><br>
+<b>iPhones:<br></b>
 
 iPhone X, iPhone 8, iPhone 7, iPhone SE, iPhone 6S<br><br>
 
-iPads & iPods:
+<b>iPads & iPods:</b>
 
 <li>iPad Air 2, iPad mini 4, iPad Pro models (2016-2017)</li>
 <li>iPad 5th Gen, iPad 6th Gen, iPad 7th Gen</li>
