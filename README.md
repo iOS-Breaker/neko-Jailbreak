@@ -1,8 +1,11 @@
-<center>
-    <h1>NekoJB Jailbreak</h1>
-</center>
+<p align="center">
+  <h1> Neko Jailbreak </h1> 
+</p>
 
 NekoJB is a semi-untethered jailbreak based on the kfd exploit, designed for arm64 devices (older than A12) running iOS 15 - iOS 18.4. It supports both online and PC-based methods, allowing users to jailbreak their iPhones and iPads conveniently.<br><br>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4008c846-e871-4771-bc55-920ae42b341e" width="150" height="auto" alt="Image">
+</p>
 
 ## 🔹 NekoJB Online Jailbreak
 NekoJB Online is the easiest way to jailbreak your device without a PC. It allows users to install Sileo, Zebra, and Cydia as package managers.<br>
